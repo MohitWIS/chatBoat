@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wisethink-test-oissxs",
+  "private_key_id": "cad417ff2378345a4248b7ef26264ed0c66c0851",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDP57cgaWxGOX4n\nChV5eU5cz7SIh+ImBhdhgQ0SPse7Tq3ID7v0PfV/8RnECTxAZL4u4Sc+/cKYoo8K\ngkmELE+reG9z/l93f8qeZQyd0YlY5x/S78q7o1oppyoo7bc/O4uJqobFD0v8QZSj\nuF/OuuxC76FsDDX1aiOR7ugBRsc4b5ikY+J2R27UP1xUTN+afmL2QOFDsLUvRzyP\nteKjLZXU40cMzGhuhDobsXOiSVm88mjg4jJt1kwCbommALyHFKEiV+/LvmryqwHZ\nVbzh0/cH4+r3ddP2X/kpxNb7jwiddDNVZCCWUwQR93rDZWsHo1YcjxxJVxhkGwaz\nHt//03NZAgMBAAECggEAHjRel0uhopkvMfpF0OpV/2dgpdZB/X60jmKalMxApb6C\nQlbA2nTW8iHDucaStZM9Sx/EXSMuTpENYXw4tIZgg7uhS5OI6JpNBFKPcO00fFFF\nvxY92KFck8EYv637iaj7toIrBr2YbztS3i9G4ginkvjv9XvXqgIjzUuNcsQG5PSU\nVUCRx45NdmqEV8L9xAHSZCPBS6lI9mwLbb3Rc3Pxr9N/G4n9WXJciIyXcDv9rida\nJqCyCkodbFrbnZ4xSRsSOFn1F9HbCLcRTGCNTyoAdBb1jjYYl176eUx2XENTqZaG\n87PnFXE/cgzahiezG8LBBjwvLxgXiqWP4h42JaTqRQKBgQD5nNVAbJ77pwIg60np\ncWjTWYo0SGuZn2qAAWr1LoEbjzBbwbDomAjBKmyZxkeTl04JMomZA5rwOa0fGCKO\n89vAP3YSTAQo8sbWmsChUr4rZVQmuQDKYpgxZ6cKuXBgG70UoXeTC5UgR2l+BDCT\ndALHblUaX02Ncis4t/xir2rTzQKBgQDVOaoESXj+U19fM/shQsCggU4KAcEbtEtT\n5XYOZFzcXPAfeUwMGMRgr5SBN4a2pj4pFkodsZ0AIF+Z7hvwydqp4IgXHF4BRET9\nTWovFHiVKm6LIzyLwmalzIlzNxWQzRocZBz7h0A9+fZT8SL+zmLdGPMntBSkvmCw\nmFrwV25pvQKBgQC40384L/XcowI5e9+Dwpz6+i8SnZlG7DrAw8v99kxVKsaE+rvS\nzliVJ6O4jZAMYhm/R7OJIJlGTX66KnXUYg8SoCr+S1k9NN80ouwFyC3WFjakYZKL\nSUwmMPkIQN1L3N45+4F92TK37wjW7aVGWb2BDFppp63WEXadjeaM8BTq9QKBgD6p\nn6l63i//2HtmD1uK/oks9v5B3bqCldCmErfQDupD9d2KDCtR7ARuFTqUUubCnGn+\nvvFTDUzINtBKBbQR3k0mS1hfYdEFezDl21rSrU1JFwuU42o/S2NWZN6TRac0X4QQ\nd+QDr4GHQDkTGLHBfZR0jKESby6rNEcxvyf6ydwRAoGBAK36Vr4aIRNmMsdZXyUE\nUTXYozvZQkPvDr/LmXHfy24GGWjPuwq7uL3lw19w03XNf6R6DEGnQS5uEPQQlMKQ\nEOJrmThHBuXtjjLXzXBiTDFdXgNwkMFRe3nVKzey4fMscVIbLJspluC3T2NosnK0\n0BbmbGCnZQIe2/wT4FKwBcad\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gcu5n@wisethink-test-oissxs.iam.gserviceaccount.com",
+  "client_id": "105708893196877154028",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gcu5n%40wisethink-test-oissxs.iam.gserviceaccount.com"
+}
